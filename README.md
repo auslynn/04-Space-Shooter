@@ -1,2 +1,1 @@
-# Project-Template-Godot
-A default Godot project template for MSCH-C220
+A game for my C220 class. The goal of the assignment is to create a rocket ship that can shoot bullets. It is controlled by user input. Meteors will spawn at random on the screen and fall to the bottom, hitting the player in the process. To stay alive, that player should avoid the meteors.
